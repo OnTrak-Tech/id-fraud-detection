@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-SocketIO
+flask-wtf
+flask-limiter
+flask-cors
+psycopg2-binary
+redis
+gunicorn
